@@ -1,0 +1,7 @@
+db:
+  host: localhost
+  port: 5432
+  user: admin
+  password: qwerty
+  users_db_name: users_db
+  documents_db_name: documents_db
